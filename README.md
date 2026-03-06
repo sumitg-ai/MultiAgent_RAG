@@ -73,8 +73,3 @@ Real World Use Cases
 ✅ Use Case: Helps Doctors and Medical professionals search through millions of medical documents / journals/records speeding up diagnosis.
 🏥 Who Uses This: Hospitals, telemedicine providers, clinical researchers
 💡 Business Value: Improves care quality, reduces time on routine queries and speeds up diagnosis
-
-
-
-
-
